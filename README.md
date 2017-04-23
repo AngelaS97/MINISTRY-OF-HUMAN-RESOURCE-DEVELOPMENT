@@ -43,7 +43,7 @@ EXAMPLE OF SEO DONE ON A GOVERNMENT WEBSITE- MINISTRY OF COAL
 <table border=5 > 
 <tr><th>FAULT <th>DESCRIPTION<th>USAGE/IMPORTANCE<th><th>SUGGESTION<th></tr>
 <b><i>MINISTRY OF HUMAN RESOURCE DEVELOPMENT</i></b>
-<th> meta description</th>
+<tr><th> meta description</th>
 
 <td>The meta description is a ~160 character snippet, a tag in HTML, that 
 
@@ -55,8 +55,10 @@ Optimizing the meta description is a very important aspect of on-page SEO. <td>
 <td>The meta description for this website should be only upto 160 
 
 characters.</td>
+<td>Meta description tags, while not important to search engine rankings, are extremely important in gaining user click-through from SERPs. These short paragraphs are a webmaster's opportunity to advertise content to searchers and to let them know exactly whether the given page contains the information they're looking for.
 <br>
 </tr>
+
 
 <tr>
 <th> Headings Status	</th>
